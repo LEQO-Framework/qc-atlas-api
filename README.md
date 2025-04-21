@@ -33,6 +33,11 @@ Build the project and deploy the WAR file located at `org.planqk.atlas.web/targe
 
 Make sure you have an accessibly Postgres database and configure the application correspondingly.
 
+## REST API
+
+The QC-Atlas provides a RESTful API for interacting with quantum algorithm, implementation, pattern, and infrastructure metadata.
+For a complete list of available endpoints, see the full [API Reference](docs/API%20Endpoint%20Reference.md).
+
 ## Haftungsausschluss
 
 Dies ist ein Forschungsprototyp. Die Haftung für entgangenen Gewinn, Produktionsausfall, Betriebsunterbrechung,
